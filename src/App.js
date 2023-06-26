@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn giving me bj
+          Learn from the feature branch
         </a>
       </header>
     </div>
